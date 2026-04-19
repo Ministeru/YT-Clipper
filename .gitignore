@@ -21,3 +21,6 @@ Thumbs.db
 # Editor
 .vscode/
 *.code-workspace
+
+# Claude Code internal session data
+.claude/
