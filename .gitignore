@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Dependencies
+node_modules/
+
+# Generated media (large files, regenerated each run)
+video/
+assets/
+Outputs/
+
+# Generated data files
+data/transcript.json
+data/clips.json
+data/review.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.code-workspace

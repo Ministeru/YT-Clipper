@@ -1,0 +1,21 @@
+{
+  "name": "yt-clipper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clip": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.88.0",
+    "@remotion/cli": "^4.0.448",
+    "@remotion/renderer": "^4.0.448",
+    "dotenv": "^17.4.2",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "remotion": "^4.0.448"
+  }
+}
